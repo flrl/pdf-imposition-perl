@@ -345,7 +345,7 @@ sub available_schemas {
     return qw/2up 2down 2side 2x4x2 1x4x2cutfoldbind
               2x4x1
               duplex2up
-              4up 1repeat2top 1repeat2side 1repeat4 ea4x4
+              4up 1repeat2top 1repeat2bottom 1repeat2side 1repeat4 ea4x4
               1x8x2 1x1/
 }
 
